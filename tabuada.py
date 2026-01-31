@@ -18,7 +18,7 @@ try:
             print('\nO resultado de', numero, 'X', i, '=', i * numero)
 
         print('\n\nPrograma finalizado com sucesso!')
-        print('Até mais!')
+        print('\nAté mais!')
         input('\nTecle ENTER para limpar terminal')
 
         limpar()
